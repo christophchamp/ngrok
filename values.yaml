@@ -16,7 +16,7 @@ service:
 expose:
   service: ga-podinfo:9898
 
-token: 4i3rDinhLqMHtvez71N9S_38rkS7onwv77VFNZTaUR6
+token: 5i3rDinhLqMHtvez71N9S_38rkS7onwv77VFNZTaUR6
 
 nodeSelector: {}
 
